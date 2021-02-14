@@ -1,2 +1,2 @@
-# Semantic-Speech-Analyzer
+# Semantic-Information-Analyzer
 
